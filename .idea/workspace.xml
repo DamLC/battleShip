@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d788277d-08cc-4ce3-9ff6-678399e4abd2" name="Default Changelist" comment="init commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\eclipse workspace\objet\battleShip\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zf39FVMnBuQtjw3hozwAVy883p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d788277d-08cc-4ce3-9ff6-678399e4abd2" name="Default Changelist" comment="" />
+      <created>1585216167299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585216167299</updated>
+      <workItem from="1585216170898" duration="112000" />
+      <workItem from="1585216447913" duration="871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585216261140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585216261140" />
+    <state x="435" y="118" key="CommitChangelistDialog2" timestamp="1585217252444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="435" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585217252444" />
+    <state x="691" y="417" key="Github.ShareDialog" timestamp="1585216631916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585216631916" />
+    <state x="611" y="228" key="Github.UntrackedFilesDialog" timestamp="1585216651742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="611" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585216651742" />
+    <state x="215" y="123" key="new project wizard" timestamp="1585217268868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="215" y="123" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585217268868" />
+  </component>
+</project>
