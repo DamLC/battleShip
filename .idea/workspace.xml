@@ -38,6 +38,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\eclipse workspace\objet\battleShip" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585216167299</updated>
       <workItem from="1585216170898" duration="112000" />
-      <workItem from="1585216447913" duration="1119000" />
+      <workItem from="1585216447913" duration="3887000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585217368817</created>
@@ -58,7 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585217368817</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1585217637685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585217637685</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1585217707368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585217707368</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,14 +88,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="358" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1585224478283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="358" y="192" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585224478283" />
     <state x="504" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585216261140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="504" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585216261140" />
-    <state x="435" y="118" key="CommitChangelistDialog2" timestamp="1585217636659">
+    <state x="435" y="118" key="CommitChangelistDialog2" timestamp="1585217706569">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="435" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585217636659" />
+    <state x="435" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585217706569" />
     <state x="691" y="417" key="Github.ShareDialog" timestamp="1585216631916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
