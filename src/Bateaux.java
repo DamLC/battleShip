@@ -1,12 +1,12 @@
 public class Bateaux {
 
     private Coordonnees position;
-    private boolean estDetruit;
+    private boolean estEnVie;
     private String orientation;
     private int taille;
 
 
-    public Bateaux( int taille, String orientation, Coordonnees position) {
+    public Bateaux( Coordonnees position,int taille , String orientation) {
         this.orientation = orientation;
         this.taille = taille;
         this.position = new Coordonnees(10,10);
@@ -15,11 +15,11 @@ public class Bateaux {
 
 
     public boolean isEstDetruit() {
-        return estDetruit;
+        return estEnVie;
     }
 
     public void setEstDetruit(boolean estDetruit) {
-        this.estDetruit = estDetruit;
+        this.estEnVie = estDetruit;
     }
 
     public String getOrientation() {
@@ -36,5 +36,9 @@ public class Bateaux {
 
     public void setTaille(int taille) {
         this.taille = taille;
+    }
+
+    public void subiDegat(){
+        estEnVie = false;
     }
 }

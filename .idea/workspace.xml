@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d788277d-08cc-4ce3-9ff6-678399e4abd2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bateaux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bateaux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coordonnees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coordonnees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jeu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jeu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585216167299</updated>
       <workItem from="1585216170898" duration="112000" />
-      <workItem from="1585216447913" duration="8442000" />
+      <workItem from="1585216447913" duration="10348000" />
+      <workItem from="1585313277554" duration="2472000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1585217368817</created>
@@ -91,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585229829515</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ajout class">
+      <created>1585231383876</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585231383876</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,10 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="504" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585216261140" />
-    <state x="435" y="118" key="CommitChangelistDialog2" timestamp="1585229828569">
+    <state x="435" y="118" key="CommitChangelistDialog2" timestamp="1585231382931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="435" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585229828569" />
+    <state x="435" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585231382931" />
     <state x="691" y="417" key="Github.ShareDialog" timestamp="1585216631916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
